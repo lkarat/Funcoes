@@ -1,11 +1,19 @@
-// Prática 2
+//function imprimirNome(pessoa) {
+//    console.log("Olá", pessoa);  
+//}
+//imprimirNome("Ricardinho")
+//imprimirNome("Britany")
+//imprimirNome("Joshua")
+//imprimirNome("Stephany")
 
-function algebricar(numero) {
-   let a=numero%2===0
-   let b=numero+10
-   let c=numero*numero
-   return `o número ${numero} é par? ${a}. Somado com 1O é igual a ${b} e multiplicado por ele mesmo é  ${c}`
-    
+// Fuções não nomeada
+
+/*let imprimirNome= function (nome) {
+let nominho=nome
+console.log(nominho);
+
 }
 
-console.log(algebricar(55))
+imprimirNome("Gustavo Gustamante")
+*/
+
