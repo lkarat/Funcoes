@@ -17,4 +17,3 @@ console.log(nominho);
 imprimirNome("Gustavo Gustamante")
 */
 
-
