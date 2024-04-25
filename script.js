@@ -40,11 +40,13 @@ imprimirNome("Gustavo Gustamante")
 
 
 // exercício 3 - arrow
-const verification= (login,senha) => {
+/*const verification= (login,senha) => {
    let loginArmazenado="astrodev"
    const senhaArmazenada="bananinha123"
    return login===loginArmazenado && senha===senhaArmazenada
   
 }
 console.log(verification("astrodev","bananinha123"))
-console.log(verification("lucas","neto"))
+console.log(verification("lucas","neto"))*/
+
+
